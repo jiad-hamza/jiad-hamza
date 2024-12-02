@@ -16,7 +16,7 @@ Je suis toujours en quête de nouveaux défis pour apprendre et partager mes con
 
 ## 🛠️ Compétences Techniques  
 ### 🔧 **Langages & Outils**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+![Python]([https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge))  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
 
