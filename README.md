@@ -42,7 +42,7 @@ Je suis toujours en quête de nouveaux défis pour apprendre et partager mes con
 ---
 
 ## ✉️ Contactez-moi  
-💌 **Email** : [jiadhamza1978@gmail.com](mailto:jiadhamza1978@gmail.com)  
+💌 **Email** : [jiadhamza1978@gmail.com](mailto:jiadhamza64@gmail.com)  
 📂 **GitHub** : [github.com/jiad-hamza](https://github.com/jiad-hamza)  
 
 ---
